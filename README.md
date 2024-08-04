@@ -2,7 +2,7 @@
 
 This app was created using the Flutter framework for my Android Development internship at Prodigy InfoTech.
 
-# Features
+## Features
 
 The calculator app has the following features:
 
