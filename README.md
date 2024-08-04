@@ -15,6 +15,7 @@ The calculator app has the following features:
 * Modulus (Output: Remainder)
 * AC (All Clear)
 * CE (Clear Expression)
+  
 The calculator also supports operations with floating point numbers (decimals) and integer numbers.
 
 ### Cross-Platform Compatibility
